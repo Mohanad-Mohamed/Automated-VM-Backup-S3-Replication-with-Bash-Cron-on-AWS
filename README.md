@@ -1,3 +1,7 @@
+
+![Architecture_digram](https://github.com/user-attachments/assets/db23bd16-f0f2-4ea6-b8c4-a18fd5dd139e)
+
+
 # Automated Backup System with AWS S3 Integration
 
 This project implements an automated backup system that creates local backups and uploads them to Amazon S3. It includes two versions of the backup script and instructions for setting up automated backups using cron.
