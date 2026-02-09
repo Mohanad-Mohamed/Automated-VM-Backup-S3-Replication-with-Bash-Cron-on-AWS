@@ -1,6 +1,7 @@
 # Project Architecture
 
-![Architecture_digram](https://github.com/user-attachments/assets/db23bd16-f0f2-4ea6-b8c4-a18fd5dd139e)
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/85ac41c3-9d73-401d-b5a8-9c3ca7b4e3cc" />
+
 
 # Automated Backup System with AWS S3 Integration 
 
